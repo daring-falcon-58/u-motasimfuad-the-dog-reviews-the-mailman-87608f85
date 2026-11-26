@@ -1,8 +1,8 @@
 # The Dog Reviews the Mailman
 
-![entry 142/200 chars](https://img.shields.io/badge/entry-142%2F200_chars-blue)
-![score 25/25](https://img.shields.io/badge/score-25%2F25-brightgreen)
-![field 928 entries](https://img.shields.io/badge/field-928_entries-orange)
+[![make.fun · u-motasimfuad-the-dog-reviews-the-mailman-87608f85](https://make.fun/badge/u-motasimfuad-the-dog-reviews-the-mailman-87608f85.svg)](https://make.fun/bounty/u-motasimfuad-the-dog-reviews-the-mailman-87608f85?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-the-dog-reviews-the-mailman-87608f85)
+[![rank](https://make.fun/badge/u-motasimfuad-the-dog-reviews-the-mailman-87608f85/daring-falcon-58/u-motasimfuad-the-dog-reviews-the-mailman-87608f85/rank.svg)](https://make.fun/bounty/u-motasimfuad-the-dog-reviews-the-mailman-87608f85/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-the-dog-reviews-the-mailman-87608f85)
+[![reward](https://make.fun/badge/u-motasimfuad-the-dog-reviews-the-mailman-87608f85/daring-falcon-58/u-motasimfuad-the-dog-reviews-the-mailman-87608f85/reward.svg)](https://make.fun/bounty/u-motasimfuad-the-dog-reviews-the-mailman-87608f85?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-the-dog-reviews-the-mailman-87608f85)
 
 ## Methodology (read first — this is what the judge compares)
 
